@@ -1,7 +1,7 @@
 ---
 title: dfasfd
 subtitle: Website Design
-layout: default
+layout: post
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
@@ -13,3 +13,22 @@ category: blog
 description: This is something new
 
 ---
+
+Thisfdfkjhsalkdf
+sdfa
+sdf
+a
+sdf
+s
+df
+
+sdf
+
+asd
+f
+as
+d
+f
+asd
+f
+ass
