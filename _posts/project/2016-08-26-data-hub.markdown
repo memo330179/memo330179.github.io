@@ -1,0 +1,16 @@
+---
+title: Data Hub
+subtitle: Dashboard
+layout: default
+modal-id: 2
+date: 2016-10-29
+img: dashlogo.png
+thumbnail: dashlogo.png
+alt: data hub logo
+project-date: Fall 2016
+client: Pine Mountain Settlement School
+category: project
+link: https://github.com/memo330179/sensor_dashboard
+description: As part of my embedded systems class I created a dashboard to store data, display information, and send notifications to people of import when the sensors read temperatures outside or a desired range.
+
+---
