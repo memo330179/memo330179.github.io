@@ -1,3 +1,7 @@
+header {
+    background-image: url('{{ site.baseurl }}/img/typewriter.jpg');
+}
+
 .post-preview > a {
   color: #333333;
 }

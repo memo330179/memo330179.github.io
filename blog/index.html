@@ -8,7 +8,6 @@ layout: blog
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
           {% for post in site.posts %}
-            <div class="post-preview">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <h2 class="post-title">
                       {{ post.title }}
@@ -18,10 +17,12 @@ layout: blog
                     </h3>
                 </a>
                 <p class="post-meta">Posted by <a href="#">{{site.author}}</a> on {{ post.date | date: "%b %-d, %Y" }}</p>
-            </div>
-            <hr>
           {% endfor %}
           <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+          
         </div>
+
+          </div>
+
     </div>
 </div>
